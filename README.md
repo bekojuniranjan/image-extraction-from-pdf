@@ -1,3 +1,3 @@
-# image-extraction-from-
+# image-extraction-from-pdf
 
 using pymupdf
